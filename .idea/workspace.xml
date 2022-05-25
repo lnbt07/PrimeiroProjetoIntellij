@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4901c784-7795-4d2d-b450-ac82bd5c7fce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrimeiroProjetoIntellij.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/PrimeiroPrograma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/model/Gato.java" afterDir="false" />
+    <list default="true" id="4901c784-7795-4d2d-b450-ac82bd5c7fce" name="Changes" comment="first commit from intellij">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/PrimeiroPrograma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653495361989</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit from intellij">
+      <created>1653496239586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653496239586</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit from intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit from intellij" />
   </component>
 </project>
