@@ -7,7 +7,7 @@ public class PrimeiroPrograma {
         Gato gato = new Gato();
         System.out.println(gato);
 
-        Livro livro = new Livro("O Pequeno Principe", 200);
+        Livro livro = new Livro("O Pequeno Principe", 300);
         System.out.println(livro);
 
         /*int a = 5;
